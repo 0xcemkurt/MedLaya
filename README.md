@@ -82,4 +82,4 @@ MedLaya classifies and routes text — it does **not** diagnose, and it is not a
 
 ## License
 
-Apache 2.0 — see [`LICENSE`](./LICENSE). Original work © the Laya project (NandhaKishorM / Convai Innovations); modifications for clinical triage © [Your Company].
+Apache 2.0 — see [`LICENSE`](./LICENSE). Original work © the Laya project (NandhaKishorM / Convai Innovations); modifications for clinical triage © .
